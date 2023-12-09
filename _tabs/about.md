@@ -8,7 +8,7 @@ order: 4
 {: .prompt-info }
 
 ## Requirments to Join:
->
+> 
 >### 🫧 Joining Requirements
 >Rank 5+  
 >2 Rebirths  
