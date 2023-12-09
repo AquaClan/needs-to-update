@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> We are currently, **not** looking for members!
+> We are currently looking for members!
 {: .prompt-info }
 
 ## Requirments to Join:
