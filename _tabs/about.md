@@ -8,13 +8,13 @@ order: 4
 {: .prompt-info }
 
 ## Requirments to Join:
-
+>
 >### 🫧 Joining Requirements
 >Rank 5+  
 >2 Rebirths  
 >Being Active  
 >200k Entry Requirement
-### 🫧 What you get
+>### 🫧 What you get
 >Level 2 Clan Boosts  
 >Clan Discord Server  
 >A helping and active Community  
