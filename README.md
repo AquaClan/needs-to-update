@@ -1,5 +1,5 @@
 # Chirpy Starter
-Last updated: 2023-12-08 14:30 UTC
+<t:2023-12-08T14:30:00Z:R>
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
