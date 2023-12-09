@@ -13,11 +13,10 @@ order: 4
 >Rank 5+  
 >2 Rebirths  
 >Being Active  
->200k Entry Requirement  
-
-
+>200k Entry Requirement
+#
 ### 🫧 What you get
-Level 2 Clan Boosts  
+>Level 2 Clan Boosts  
 >Clan Discord Server  
 >A helping and active Community  
 >A private Server  
