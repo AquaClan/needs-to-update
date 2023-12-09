@@ -32,5 +32,6 @@ image:
 | Agility Charm          | 25k Gems   | December 8, 2023    |
 | Exotic Pets            | 270k Gems  | December 8, 2023    |
 | Spinny Wheel Ticket    | 25k Gems   | December 8, 2023    |
-
+| Blast Enchantment      | 15k Gems   | December 8, 2023    |
+| Lightning Enchanment   | 55k Gems   | December 8, 2023    |
 
