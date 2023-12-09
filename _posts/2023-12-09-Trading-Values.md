@@ -1,8 +1,8 @@
 ---
-title: Website
-date: 2023-12-08 17:57 -0500
-categories: [Annoucement, Misc]
-tags: [annoucement]     # TAG names should always be lowercase
+title: Trading Value
+date: 2023-12-09 10:53 -0500
+categories: [Help, Trading]
+tags: [help,trading]     # TAG names should always be lowercase
 author: sfgij
 ---
-Hello, and welcome to the Aqua Clan website! This website is meant for posts annoucements and other stuff by the aqua clan. The website is updated and maintained by 'sfgij' if you have any questions and concerns please tell him.
+h
