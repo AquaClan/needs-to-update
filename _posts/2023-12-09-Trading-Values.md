@@ -12,7 +12,25 @@ image:
 >Some values on this list may not reflect the values in game, these are just generalized list
 {: .prompt-warning}
 
-| Item Name                    | Price            |Updated Date (EST)  |
-|:-----------------------------|:-----------------|-------------------:|
-|Diamond V Book                | 200k Gems        |December 8th 2023   |
+| Item Name              | Price      | Updated Date (EST)  |
+|:-----------------------|:-----------|--------------------:|
+| Diamond V Book         | 200k Gems  | December 8, 2023    |
+| Dragon Egg             | 350k Gems  | December 8, 2023    |
+| Diamond Charm          | 200k Gems  | December 8, 2023    |
+| Huge Happy Rock        | 1M Gems    | December 8, 2023    |
+| Huge Hell Rock         | 1.05M Gems | December 8, 2023    |
+| Golden Huge Hell Rock  | 1.5M Gems  | December 8, 2023    |
+| Rainbow Cyborg Dominus | 7k Gems    | December 8, 2023    |
+| Rainbow Stand          | 400k Gems  | December 8, 2023    |
+| Fortune Enchantment    | 1.5M Gems  | December 8, 2023    |
+| Lower/Upper Key Half   | 20k Gems   | December 8, 2023    |
+| Huge Propellor Cat     | 3M Gems    | December 8, 2023    |
+| Midas Touch            | 250k Gems  | December 8, 2023    |
+| Luckyblock Enchantment | 1.2M Gems  | December 8, 2023    |
+| Crystal Key            | 40k Gems   | December 8, 2023    |
+| Strength Charm         | 190k Gems  | December 8, 2023    |
+| Agility Charm          | 25k Gems   | December 8, 2023    |
+| Exotic Pets            | 270k Gems  | December 8, 2023    |
+| Spinny Wheel Ticket    | 25k Gems   | December 8, 2023    |
+
 
