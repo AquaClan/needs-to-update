@@ -5,4 +5,5 @@ categories: [Help, Trading]
 tags: [help,trading]     # TAG names should always be lowercase
 author: sfgij
 ---
-h
+>Some values on this list may not reflect the values in game, these are just generalized list
+{: .prompt-warning}
