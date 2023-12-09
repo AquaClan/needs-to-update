@@ -11,3 +11,8 @@ image:
 ---
 >Some values on this list may not reflect the values in game, these are just generalized list
 {: .prompt-warning}
+
+| Item Name                    | Price            |Updated Date (EST)  |
+|:-----------------------------|:-----------------|-------------------:|
+|Diamond V Book                | 200k Gems        |December 8th 2023   |
+
