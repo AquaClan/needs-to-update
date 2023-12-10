@@ -13,7 +13,7 @@ order: 4
 >Rank 5+  
 >2 Rebirths  
 >Being Active  
->350k Entry Requirement  
+>500k Entry Requirement  
 
 ### 🫧 What you get
 >Level 2 Clan Boosts  
